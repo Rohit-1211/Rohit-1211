@@ -1,4 +1,4 @@
-![logo](https://github.com/Rohit-1211/Rohit-1211/blob/main/White%20Beige%20Simple%20Photo%20Entrepreneur%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/Rohit-1211/Rohit-1211/blob/main/Rohit%20Raj.jpg)
  <h1 align="center">Hi 👋, I'm Rohit Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
